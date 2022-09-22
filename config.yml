@@ -3,7 +3,7 @@ API_HASH: 4185aaae27c0ee23420255f2627ddb5f
 BOT_TOKEN: 5672156760:AAEijwkcAlbbmXHmmxxew4P86pjj2whS-q8
 
 
-MONGO_URL:  mongodb+srv://bikashhalder1234444:bikash890@cluster0.c7hlkrv.mongodb.net/?retryWrites=true&w=majority
+MONGO_URL:  mongodb+srv://rosebot:rosebot@cluster0.ncsmny0.mongodb.net/?retryWrites=true&w=majority
 REDIS_URI: redis-19708.c14.us-east-1-2.ec2.cloud.redislabs.com:19708
 REDIS_PORT: 19708
 REDIS_PASS: YJtJt3pPJFZk5FjcXxRisd0icVKI9KsL
